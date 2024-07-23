@@ -1,0 +1,58 @@
+
+## ----------- mBedLab X Core AVR Series by Majid Derhambakhsh -----------
+menu.cpu=Processor
+
+## ------------------------- mBedLab X-Nobara R1 -------------------------
+xnobarar1.name=X-Nobara R1
+
+## ID
+xnobarar1.vid.0=0x2341
+xnobarar1.pid.0=0x0043
+xnobarar1.vid.1=0x2341
+xnobarar1.pid.1=0x0001
+xnobarar1.vid.2=0x2A03
+xnobarar1.pid.2=0x0043
+xnobarar1.vid.3=0x2341
+xnobarar1.pid.3=0x0243
+xnobarar1.vid.4=0x2341
+xnobarar1.pid.4=0x006A
+
+## Upload
+xnobarar1.upload_port.0.vid=0x2341
+xnobarar1.upload_port.0.pid=0x0043
+xnobarar1.upload_port.1.vid=0x2341
+xnobarar1.upload_port.1.pid=0x0001
+xnobarar1.upload_port.2.vid=0x2A03
+xnobarar1.upload_port.2.pid=0x0043
+xnobarar1.upload_port.3.vid=0x2341
+xnobarar1.upload_port.3.pid=0x0243
+xnobarar1.upload_port.4.vid=0x2341
+xnobarar1.upload_port.4.pid=0x006A
+xnobarar1.upload_port.5.board=xnobarar1
+
+xnobarar1.upload.tool=avrdude
+xnobarar1.upload.tool.default=avrdude
+xnobarar1.upload.tool.network=arduino_ota
+xnobarar1.upload.protocol=arduino
+xnobarar1.upload.maximum_size=32256
+xnobarar1.upload.maximum_data_size=2048
+xnobarar1.upload.speed=115200
+
+## Bootloader
+xnobarar1.bootloader.tool=avrdude
+xnobarar1.bootloader.tool.default=avrdude
+xnobarar1.bootloader.low_fuses=0xFF
+xnobarar1.bootloader.high_fuses=0xDE
+xnobarar1.bootloader.extended_fuses=0xFD
+xnobarar1.bootloader.unlock_bits=0x3F
+xnobarar1.bootloader.lock_bits=0x0F
+xnobarar1.bootloader.file=optiboot/optiboot_atmega328.hex
+
+## Build
+xnobarar1.build.mcu=atmega328p
+xnobarar1.build.f_cpu=16000000L
+xnobarar1.build.board=AVR_NOBARA_R1
+xnobarar1.build.core=arduino
+xnobarar1.build.variant=nobara_standard
+
+## -----------------------------------------------------------------------
