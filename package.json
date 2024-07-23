@@ -11,10 +11,10 @@
           "architecture": "x_avr_series",
           "version": "1.0.0",
           "category": "Contributed",
-          "url": "https://github.com/mbedlab/X-Core-AVR-Series/releases/download/1.0.0/x1.0.0.zip",
-          "archiveFileName": "x1.0.0.zip",
-          "checksum": "SHA-256:8f4dd77ce0b53f818db50413fb587b21f8d33c31dde6efb7859a2db94ea59083",
-          "size": "3482100",
+          "url": "https://github.com/mbedlab/ArduinoCore_X_AVR_Boards/releases/download/1.0.0/ArduinoCore_X_AVR_Boards-1.0.0.zip",
+          "archiveFileName": "ArduinoCore_X_AVR_Boards-1.0.0.zip",
+          "checksum": "SHA-256:edb5793b96bb294d6e4ceb8fcb58b403168352a2ebfd29233648e1bf7f22c818",
+          "size": "5669883",
           "boards": [
             {
               "name": "X-Nobara R1"
