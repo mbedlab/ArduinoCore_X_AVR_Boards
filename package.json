@@ -13,8 +13,8 @@
           "category": "Contributed",
           "url": "https://github.com/mbedlab/ArduinoCore_X_AVR_Boards/releases/download/1.0.0/ArduinoCore_X_AVR_Boards-1.0.0.zip",
           "archiveFileName": "ArduinoCore_X_AVR_Boards-1.0.0.zip",
-          "checksum": "SHA-256:411e9c0e46f9fbf7d598580d775b5aa391f524506704e31c35032aa1901131ea",
-          "size": "5688884",
+          "checksum": "SHA-256:27da58b6188df902f6f138d200c4bd7b51420bd33c8cfa6d5d337da08badc24b",
+          "size": "5690110",
           "boards": [
             {
               "name": "X-Nobara R1"
