@@ -1,11 +1,11 @@
 # Arduino Core X AVR Boards
-ST7789 LCD Library for ARM Cortex M (STM32) and AVR microcontrollers
+The official Arduino Core for mBedLab X Series Development Board, based on the AVR microcontroller.
 
 ## Release
 ### Version: Beta 1.0.0
 - #### Author: [Majid Derhambakhsh](https://github.com/majid-derhambakhsh)
 
-- #### Type: Arduino Board Package.
+- #### Type: Arduino Board Package
 
 - #### IDE: Arduino IDE 2 and Newer
 
